@@ -180,9 +180,23 @@ I believe that every bug is a lesson, every project is an opportunity, and every
 
 <br><br>
 
-<a href="https://github.com/shravzz-xvi">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shravzz-xvi&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&area_color=EF93C4&hide_border=true&custom_title=My%20Contribution%20Journey" width="95%" alt="GitHub Contribution Activity Graph">
-</a>
+<!-- ======================== GITHUB ACTIVITY GRAPH ======================== -->
+
+<h2 align="center">📊 My GitHub Activity</h2>
+
+<p align="center">
+  <i>Every contribution is a step forward! 🌸</i>
+</p>
+
+<div align="center">
+  <a href="https://github.com/shravzz-xvi">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=shravzz-xvi&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true&custom_title=CHANDA%20SHRAVANI%27s%20GitHub%20Activity"
+      alt="GitHub Activity Graph"
+      width="95%"
+    />
+  </a>
+</div>
 
 </div>
 
